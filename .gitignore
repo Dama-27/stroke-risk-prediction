@@ -1,4 +1,4 @@
-notebooks/healthcare-dataset-stroke-data.csv
+data/healthcare-dataset-stroke-data.csv
 X_preprocessed.csv
 y_labels.csv
 notebooks/.ipynb_checkpoints
