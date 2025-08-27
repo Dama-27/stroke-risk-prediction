@@ -4,6 +4,6 @@ This project aims to predict the likelihood of a patient having a stroke using h
 We explore preprocessing, feature selection, handling imbalanced data, and machine learning models.
 
 ## 📂 Project Structure
-- `data/` → raw and processed datasets
+- `data/` → raw dataset
 - `notebooks/` → Jupyter notebooks (EDA, preprocessing, training)
 
