@@ -6,12 +6,4 @@ We explore preprocessing, feature selection, handling imbalanced data, and machi
 ## 📂 Project Structure
 - `data/` → raw and processed datasets
 - `notebooks/` → Jupyter notebooks (EDA, preprocessing, training)
-- `src/` → Python scripts for modular code
-- `results/` → metrics and visualizations
-
-## 🚀 Setup
-```bash
-git clone https://github.com/YourUsername/stroke-prediction-ml.git
-cd stroke-prediction-ml
-pip install -r requirements.txt
 
